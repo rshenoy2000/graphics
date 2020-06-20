@@ -1,2 +1,3 @@
 # graphics
-Playground to try different graphics algorithms
+
+Playground to try experiment graphics algorithms
