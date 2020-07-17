@@ -1,0 +1,18 @@
+﻿  camera.cpp
+c:\users\rshenoy\graphics\assignments\one_vs\distrib\camera.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  curve.cpp
+c:\users\rshenoy\graphics\assignments\one_vs\distrib\curve.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\rshenoy\graphics\assignments\one_vs\distrib\main.cpp(249): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\rshenoy\graphics\assignments\one_vs\distrib\main.cpp(250): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  parse.cpp
+  surf.cpp
+  Matrix2f.cpp
+  Matrix3f.cpp
+  Matrix4f.cpp
+  Quat4f.cpp
+  Vector2f.cpp
+  Vector3f.cpp
+  Vector4f.cpp
+  Generating Code...
+  one.vcxproj -> C:\Users\rshenoy\graphics\assignments\one_vs\distrib\Debug\one.exe

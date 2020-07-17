@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  zero.vcxproj -> C:\Users\rshenoy\graphics\assignments\zero\Release\zero.exe
